@@ -1,0 +1,12 @@
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\bin\Debug\HaberinOlsun.Entity.dll.config
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\bin\Debug\HaberinOlsun.Entity.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\bin\Debug\HaberinOlsun.Entity.pdb
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\bin\Debug\EntityFramework.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\bin\Debug\EntityFramework.xml
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\obj\Debug\HaberinOlsun.Entity.csproj.CoreCompileInputs.cache
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\obj\Debug\HaberinOlsun.Entity.csproj.CopyComplete
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\obj\Debug\HaberinOlsun.Entity.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\obj\Debug\HaberinOlsun.Entity.pdb
+C:\Users\busra\source\repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.Entity\obj\Debug\HaberinOlsun.Entity.csprojAssemblyReference.cache

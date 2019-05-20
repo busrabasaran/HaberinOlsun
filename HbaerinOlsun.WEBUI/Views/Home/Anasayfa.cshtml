@@ -1,0 +1,50 @@
+﻿@using HaberinOlsun.WEBUI.Models
+
+
+@{
+    ViewBag.Title = "Anasayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- ##### Hero Area Start ##### -->
+@Html.Partial("~/Views/PartialView/BannerPartialView.cshtml")
+
+<!-- ##### Hero Area End ##### -->
+<!-- ##### Mag Posts Area Start ##### -->
+<section class="mag-posts-area d-flex flex-wrap">
+
+    <!-- >>>>>>>>>>>>>>>>>>>>
+    Post Left Sidebar Area
+    <<<<<<<<<<<<<<<<<<<<< -->
+    @Html.Partial("~/Views/PartialView/SonDakikaPartialView.cshtml")
+    <!-- >>>>>>>>>>>>>>>>>>>>
+    Main Posts Area
+    <<<<<<<<<<<<<<<<<<<<< -->
+    <div class="mag-posts-content mt-30 mb-30 p-30 box-shadow">
+        <!-- Trending Now Posts Area -->
+        <div class="trending-now-posts mb-30">
+            <!-- Section Title -->
+            <div class="section-heading">
+                <h5>Haberler</h5>
+            </div>
+
+            <div class="trending-post-slides owl-carousel">
+                <!-- Single Trending Post -->
+                <div class="single-trending-post">
+                    <img src="~/Content/img/bg-img/19.jpg" alt="">
+                    <div class="post-content">
+                        <a href="#" class="post-cata">Video</a>
+                        <a href="video-post.html" class="post-title">Big Savings On Gas While You Travel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- >>>>>>>>>>>>>>>>>>>>
+    Post Right Sidebar Area
+    <<<<<<<<<<<<<<<<<<<<< -->
+    @Html.Partial("~/Views/PartialView/KoseYazilariPartialView.cshtml")
+</section>
+<!-- ##### Mag Posts Area End ##### -->
+

@@ -1,0 +1,15 @@
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\obj\Debug\HaberinOlsun.DAL.csprojAssemblyReference.cache
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\obj\Debug\HaberinOlsun.DAL.csproj.CoreCompileInputs.cache
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\HaberinOlsun.DAL.dll.config
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\HaberinOlsun.DAL.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\HaberinOlsun.DAL.pdb
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\EntityFramework.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\HaberinOlsun.Entity.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\HaberinOlsun.Entity.pdb
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\HaberinOlsun.Entity.dll.config
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\EntityFramework.xml
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\obj\Debug\HaberinOlsun.DAL.csproj.CopyComplete
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\obj\Debug\HaberinOlsun.DAL.dll
+C:\Users\busra\Source\Repos\HaberinOlsun\HaberinOlsun\HaberinOlsun.DAL\obj\Debug\HaberinOlsun.DAL.pdb
